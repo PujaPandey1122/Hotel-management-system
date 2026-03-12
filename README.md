@@ -7,5 +7,5 @@ The main purpose of this project is to understand how programming concepts can b
 
 
 Authors:
-Puja Pandey 
+Puja Pandey and 
 Shivansh Kumar 
