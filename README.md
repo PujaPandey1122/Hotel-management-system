@@ -29,7 +29,7 @@ The main purpose of this project is to understand how programming concepts can b
 
 
 
-👥 Developed By:
+👥👨‍💻 Developed By:
 
 -> Puja Pandey 
 
