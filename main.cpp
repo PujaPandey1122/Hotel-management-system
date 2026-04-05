@@ -1,6 +1,7 @@
 #include<iostream>
 #include<exception>
 #include "customer.h"
+#include "person.h"
 
 using namespace std;
 //MENU DISPLAY
@@ -20,8 +21,8 @@ void showMenu()
 
 int main()
 {
-    Customer c;
-    Person* p=&c;    //Polymorphism
+    customer c;
+    person* p=&c;    //Polymorphism
 
     int choice;
      
