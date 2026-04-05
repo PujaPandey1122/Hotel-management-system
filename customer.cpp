@@ -12,7 +12,7 @@ customer::customer (){
 
 //input  function booking (booking)
  void customer ::input(){
-    cout<<"\n Enter Name :";
+    cout<<"\n Enter  Name :";
     cin>>name;
 
 
@@ -20,11 +20,11 @@ customer::customer (){
     cin >>phone;
 
 
-    cout <<"enter room number ";
+    cout <<"Enter room number ";
     cin >>roomNumber;
 
 
-    cout<<"enter days to stay";
+    cout<<"Enter days to stay";
 
     cin >> days;
 
@@ -47,9 +47,9 @@ customer::customer (){
   cout<<"\n -------CUSTOMER DETAILS ---------------";
 
   cout <<"\nName    :"<<name ;
-  cout <<"\n phone number   :"<<phone;
+  cout <<"\n Phone number   :"<<phone;
   cout<<"\n Room number    :"<< roomNumber;
-  cout <<"\n days to stay     :"<< days;
+  cout <<"\n Days to stay     :"<< days;
 
 
 
