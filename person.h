@@ -1,4 +1,4 @@
-#ifndef PERSON_H
+#ifndef PERSON_H   
 #define PERSON_H
 #include <iostream>
 #include <string>
@@ -6,7 +6,7 @@ using namespace std;
 
 //abstract base class
 
-class person {
+class person {   // class created person 
     protected :
     string name ;
     string phone;
