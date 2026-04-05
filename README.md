@@ -1,4 +1,4 @@
-Hotel management system :-
+HOTEL MANAGEMENT SYSTEM  
 
 This project is a simple hotel management system developed using c++.
 It demonstrates the use of object-oriented programming concepts such as classes ,objects,and inheritance .The system is designed to manage hotel operations including customer information ,room details and booking management.
