@@ -12,7 +12,7 @@ class person {   // class created person
     string phone;
     
     public:
-    virtual void input()=0;
+    virtual void input()=0; // pure virtual function
     virtual void display() const=0;
 
 
