@@ -6,7 +6,8 @@ It demonstrates the use of object-oriented programming concepts such as classes 
 The main purpose of this project is to understand how programming concepts can be used to build a structured application .It helps in learning program organizaton ,problem solving and teamwork while developing a practical software project.
 
 
-FEATURES
+✅FEATURES
+
 
 
 -> Customer Registration 
@@ -18,7 +19,7 @@ FEATURES
 ->Display Customer details
 
 
-TECHNOLOGIES USED
+✅TECHNOLOGIES USED
 
 
 ->Language:- C++
@@ -28,7 +29,7 @@ TECHNOLOGIES USED
 
 
 
-Authors:
+👥 Authors:
 
 -> Puja Pandey 
 
