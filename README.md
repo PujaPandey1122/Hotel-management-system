@@ -7,6 +7,8 @@ The main purpose of this project is to understand how programming concepts can b
 
 
 FEATURES
+
+
 -> Customer Registration 
 ->Room Booking 
 ->Room Cancellation
@@ -14,6 +16,8 @@ FEATURES
 
 
 TECHNOLOGIES USED
+
+
 ->Language:- C++
 ->OOP(classes,inheritance,polymorphism,abstraction)
 
@@ -21,5 +25,6 @@ TECHNOLOGIES USED
 
 
 Authors:
+
 -> Puja Pandey 
 -> Shivansh Kumar 
