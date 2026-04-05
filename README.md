@@ -10,8 +10,11 @@ FEATURES
 
 
 -> Customer Registration 
+
 ->Room Booking 
+
 ->Room Cancellation
+
 ->Display Customer details
 
 
@@ -19,6 +22,7 @@ TECHNOLOGIES USED
 
 
 ->Language:- C++
+
 ->OOP(classes,inheritance,polymorphism,abstraction)
 
 
@@ -27,4 +31,5 @@ TECHNOLOGIES USED
 Authors:
 
 -> Puja Pandey 
+
 -> Shivansh Kumar 
