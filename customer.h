@@ -4,7 +4,8 @@
 
 //customer class inherits person
 
-class customer:public person{
+class customer:public person
+{
     private:
     int roomNumber ;
     int days;
