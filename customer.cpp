@@ -3,7 +3,8 @@
 using namespace std;
 
 //construtor 
-customer::customer (){
+customer::customer ()
+{
     roomNumber =0;
     days=0;
     booked=false;
@@ -11,7 +12,8 @@ customer::customer (){
 
 
 //input  function booking (booking)
- void customer ::input(){
+ void customer ::input()
+{
     cout<<"\n Enter  Name :";
     cin>>name;
 
@@ -29,9 +31,9 @@ customer::customer (){
     cin >> days;
 
 
-    if(days<=0){
+    if(days<=0)
+    {
         throw invalid_argument ("Days must be positive !");
-
     }
     booked =true;
     cout<<"\n  Room booked successfully !";
@@ -39,8 +41,10 @@ customer::customer (){
 
  }
  //display function 
- void customer :: display () const{
-    if(!booked ){
+ void customer :: display () const
+{
+    if(!booked )
+    {
         cout<<"\n No booking found !\n";
         return ;
     }
@@ -57,8 +61,10 @@ customer::customer (){
   cout <<"\n-------------------------------------------\n";
 
 }
-void customer::cancelRoom(){
-    if(!booked ){
+void customer::cancelRoom()
+{
+    if(!booked )
+    {
         cout<<"\n NO booking to cancel !\n";
         return ;
 
