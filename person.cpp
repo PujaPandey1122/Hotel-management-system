@@ -4,7 +4,8 @@ Destrustor of person class even if
 empty ,important for polymorphism 
 */
 
-person :: ~person(){
+person :: ~person()
+{
     // destructor 
     //nothing to clean 
 }
