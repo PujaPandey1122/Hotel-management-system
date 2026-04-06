@@ -6,7 +6,8 @@ using namespace std;
 
 //abstract base class
 
-class person {   // class created person 
+class person 
+{   // class created person 
     protected :
     string name ;
     string phone;
