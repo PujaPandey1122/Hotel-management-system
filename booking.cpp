@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//Add customer
+// Add customer
 void Booking::addCustomer(Customer c)
 {
     customers.push_back(c);
