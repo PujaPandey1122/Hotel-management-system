@@ -16,15 +16,15 @@ customer::customer (){
     cin>>name;
 
 
-    cout <<"ENTER phone number :";
+    cout <<"Enter phone number :";
     cin >>phone;
 
 
-    cout <<"enter room number ";
+    cout <<"Enter room number ";
     cin >>roomNumber;
 
 
-    cout<<"enter days to stay";
+    cout<<"Enter days to stay";
 
     cin >> days;
 
@@ -47,9 +47,9 @@ customer::customer (){
   cout<<"\n -------CUSTOMER DETAILS ---------------";
 
   cout <<"\nName    :"<<name ;
-  cout <<"\n phone number   :"<<phone;
+  cout <<"\n Phone number   :"<<phone;
   cout<<"\n Room number    :"<< roomNumber;
-  cout <<"\n days to stay     :"<< days;
+  cout <<"\n Days to stay     :"<< days;
 
 
 
