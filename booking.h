@@ -8,7 +8,6 @@ class Booking
 {
     private:
       std::vector<Customer> customers;
-
     public:
       void addCustomer(Customer c);
       void displayAllCustomers() const;
