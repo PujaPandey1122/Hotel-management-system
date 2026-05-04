@@ -2,7 +2,7 @@
 #include <stdexcept>
 using namespace std;
 
-//construtor 
+//Construtor 
 customer::customer (){
     roomNumber =0;
     days=0;
