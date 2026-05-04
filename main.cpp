@@ -1,6 +1,9 @@
 #include<iostream>
 #include<exception>
 #include "customer.h"
+#include "person.h"
+#include "room.h"
+#include "utils.h"
 
 using namespace std;
 //MENU DISPLAY
@@ -20,8 +23,10 @@ void showMenu()
 
 int main()
 {
-    Customer c;
-    Person* p=&c;    //Polymorphism
+    customer c;
+    Booking booking;
+    Room room; 
+    person* p=&c;    //Polymorphism
 
     int choice;
      
@@ -70,4 +75,4 @@ int main()
  } while (choice != 5);
     
     return 0;
-}
+}  
